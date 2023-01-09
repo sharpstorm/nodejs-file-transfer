@@ -1,4 +1,4 @@
-Peer-to-peer File Transfer
+NodeJS File Transfer
 =========================
 
 Description
